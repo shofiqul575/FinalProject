@@ -1,0 +1,42 @@
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+G:\Final project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+G:\Final project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\Final project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\Final project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\Final project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Final project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Final project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Final project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\Final project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Final project\garments products wholesaler management system\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

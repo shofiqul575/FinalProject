@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="WebApplication1.User" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="StyleSheet.css" rel="stylesheet" />
+    <link href="custom.css" rel="stylesheet" />
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header-wrapper">
+            <div id="header">
+                <div id="menu">
+                    <ul>
+                        <li><a href="Index.aspx">Home</a></li>
+                        <li>
+                            <asp:LinkButton ID="lbtn_product" runat="server" OnClick="lbtn_product_Click"> Products </asp:LinkButton>                   
+                        </li>
+                        <%--<li>
+                            <asp:LinkButton ID="lbtn_signup_profile" runat="server"> </asp:LinkButton>
+                        </li>--%>
+                        <li><a href="About.aspx">About us</a></li>
+                        <li><a href="Contact.aspx">Contact us</a></li>
+                                           
+                        <li>
+                            <asp:LinkButton ID="lbtn_login_logout" runat="server" OnClick="lbtn_login_logout_Click">Login</asp:LinkButton></li>
+                        <%--<li><asp:LinkButton ID="lbtn_register" runat="server">Register</asp:LinkButton></li>--%>
+                       
+                        <li style="float:right">
+                            <a href="Cart.aspx"><span class="badge" id="pCount" runat="server"></span>Cart</a>                                                         
+                        </li>     
+                    
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+        
+         
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+       
+        
+       <%-- <footer id="footer">
+            <p>Copyright © Garments Product Wholesaler 2018</p>
+        </footer> --%>
+
+    </form>
+</body>
+</html>
